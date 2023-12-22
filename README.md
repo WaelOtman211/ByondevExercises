@@ -1,5 +1,4 @@
-Each file include one of the excercises that u can pull to your IDEA and run the program.
-Each question is about different data structure, for example array lists, sorts, graphs, trees .....
-For each file you have main function that includes some example inputs for the question.
-Question 11 we tried to use different algorithums in order to solve the problem, but at the end we used dijkystra algorithum.
-Each question I tried to solve it with the best time and memory complexity.
+In each file, there's a different coding exercise that deals with various types of data structures like arrays, sorting, graphs, and trees. I've included a main function in each file along with example inputs so you can pull to your IDEA and run the program.
+For Question 11, I initially tried different algorithms to solve the problem. Eventually, I settled on using Dijkstra's algorithm because it offered the best balance between time and memory efficiency. The goal for each question was to provide a solution that works well and doesn't use more computer resources than necessary.
+I focused on making the code efficient and effective, keeping it simple and easy to understand.
+It's common to name files based on the exercise they contain or simply by numbering them according to the question.
